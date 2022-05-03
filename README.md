@@ -53,6 +53,8 @@ I'm a college student and coding enthusiast with focus on web development and ma
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/SrikarKSV/MultiTube" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrikarKSV&repo=MultiTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SrikarKSV/pure-python-server" align="right"><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrikarKSV&repo=pure-python-server&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/SrikarKSV/MultiTube" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrikarKSV&repo=MultiTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SrikarKSV/pure-python-server" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrikarKSV&repo=pure-python-server&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/SrikarKSV/vanilla-node-webapp" align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrikarKSV&repo=vanilla-node-webapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/SrikarKSV/vanilla-node-webapp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrikarKSV&repo=vanilla-node-webapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
