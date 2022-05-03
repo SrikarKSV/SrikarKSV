@@ -1,4 +1,4 @@
-Hi 👋 My name is Sarikar KSV
+Hi 👋 My name is Srikar KSV
 ============================
 
 Web Development and Machine learning
