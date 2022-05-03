@@ -1,22 +1,13 @@
-Hi 👋 My name is Sarikar KSV
-============================
+# Hi 👋 My name is Sarikar KSV
 
-Web Development and Machine learning
-------------------------------------
+## Web Development and Machine learning
 
 I'm a college student and coding enthusiast with focus on web development and machine learning, I enjoy backend development and have poured lots of time to understand the ins and outs of it!
 
-* 🌍  I'm based in Bangalor, India
-* ✉️  You can contact me at [srikarksv@gmail.com](mailto:srikarksv@gmail.com)
-* 🚀  I'm currently working on [Anonymous Confessions](http://github.com/SrikarKSV/vanilla-node-webapp)
-* 🧠  I'm learning TypeScript, NextJS, GraphQL
-
-<a href="https://www.github.com/SrikarKSV" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SrikarKSV?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-<p align="left">
+- 🌍  I'm based in Bangalor, India
+- ✉️  You can contact me at [srikarksv@gmail.com](mailto:srikarksv@gmail.com)
+- 🚀  I'm currently working on [Anonymous Confessions](http://github.com/SrikarKSV/vanilla-node-webapp)
+- 🧠  I'm learning TypeScript, NextJS, GraphQL### Skills<p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -43,21 +34,18 @@ src="https://img.shields.io/github/followers/SrikarKSV?logo=github&style=for-the
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/SrikarKSV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/srikar_vksblurryface" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/srikar-ksv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SrikarVks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
 
-### Badges
+<a href="https://www.github.com/SrikarKSV" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
-<b>My GitHub Stats</b>
+<a href="http://www.instagram.com/srikar_vksblurryface" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
-<a href="http://www.github.com/SrikarKSV"><img src="https://github-readme-stats.vercel.app/api?username=SrikarKSV&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SrikarKSV's GitHub stats" /></a>
+<a href="https://www.linkedin.com/in/srikar-ksv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
-<b>Top Repositories</b>
+<a href="https://www.twitter.com/SrikarVks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
-<div width="100%" align="center"><a href="https://github.com/SrikarKSV/MultiTube" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrikarKSV&repo=MultiTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SrikarKSV/pure-python-server" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrikarKSV&repo=pure-python-server&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/SrikarKSV/vanilla-node-webapp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrikarKSV&repo=vanilla-node-webapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+</p>### Badges<b>My GitHub Stats</b><a href="http://www.github.com/SrikarKSV"><img src="https://github-readme-stats.vercel.app/api?username=SrikarKSV&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SrikarKSV's GitHub stats" /></a><b>Top Repositories</b>
+<div width="100%" align="center"><a href="https://github.com/SrikarKSV/MultiTube" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrikarKSV&repo=MultiTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SrikarKSV/pure-python-server" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrikarKSV&repo=pure-python-server&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/SrikarKSV/vanilla-node-webapp" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrikarKSV&repo=vanilla-node-webapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
